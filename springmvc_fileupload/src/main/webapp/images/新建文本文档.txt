@@ -1,0 +1,1 @@
+mvn install:install-file -Dfile=D:\JavaWeb\myjar\quartz-jobs-2.2.1.jar -DgroupId=org.quartz-scheduler -DartifactId=quartz-jobs -Dversion=2.2.1 -Dpackaging=jar
